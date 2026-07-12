@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20Welcome!%20&fontSize=40&fontAlignY=36&animation=twinkling&)
 
 <h3 align=center> 🌈Introduce </h3>
-<p align=center> <strong>실패를 두려워하지 않는 프론트엔드 개발자입니다 !<br>
+<p align=center> <strong>
   기능을 만들면서 즐거움을 느끼고, 그 위에 살을 덧붙이면서 성장하는 것을 좋아합니다 👩🏻</strong> 
 
 <div align="center">
